@@ -19,19 +19,19 @@ class Purchase extends GetxController {
           1,
           "Item Pertama",
           "aby",
-          "Produk ini di jual dengna harga yang murah da todak dapat di kemabalikan",
+          "Produk ini di jual dengan harga yang murah dan tidak dapat di kembalikan",
           999.9),
       Product(
           1,
           "Item Pertama",
           "aby",
-          "Produk ini di jual dengna harga yang murah da todak dapat di kemabalikan",
+          "Produk ini di jual dengan harga yang murah dan tidak dapat di kembalikan",
           999.9),
       Product(
           1,
           "Item Pertama",
           "aby",
-          "Produk ini di jual dengna harga yang murah da todak dapat di kemabalikan",
+          "Produk ini di jual dengan harga yang murah dan tidak dapat di kembalikan",
           999.9),
       Product(
           1,

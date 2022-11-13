@@ -97,7 +97,7 @@ class Home extends StatelessWidget {
                           borderRadius: BorderRadius.circular(6)),
                       child: Column(children: [
                         Image.network(
-                          "https://cf.shopee.ph/file/9e50c6cd776c577a511a28dc30265ce1",
+                          "https://images.unsplash.com/photo-1626218174358-7769486c4b79?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
                           fit: BoxFit.cover,
                         ),
                         Row(

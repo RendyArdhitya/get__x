@@ -31,7 +31,7 @@ class DemoPage extends StatelessWidget {
           ),
           ElevatedButton(
               onPressed: () => Get.snackbar(
-                  "Warning !!", "Ngapain kamu pencet woyy",
+                  "Warning !!", "Siapa suruh pencet?!",
                   snackPosition: SnackPosition.BOTTOM,
                   colorText: Colors.red,
                   backgroundColor: Colors.black87),
